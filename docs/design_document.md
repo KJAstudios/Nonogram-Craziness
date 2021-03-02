@@ -40,7 +40,7 @@ Details:
 
 How it works:
 
-#Game elements
+# Game elements
 Describe your game world, including all the characters, location, object, and other elements in it.
 
 ##👤 Characters
@@ -71,17 +71,17 @@ Describe your game world, including all the characters, location, object, and ot
 
 ...
 
-#Assets
+# Assets
 Here is where you will include all of the assets needed as well as brief descriptions.
 
-##🎨 Art
+## 🎨 Art
 ...
 
 ...
 
 ...
 
-##🔊 Sound
+## 🔊 Sound
 ...
 
 ...
