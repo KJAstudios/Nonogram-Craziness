@@ -43,7 +43,7 @@ How it works:
 # Game elements
 Describe your game world, including all the characters, location, object, and other elements in it.
 
-##👤 Characters
+## 👤 Characters
 ...
 
 ...
